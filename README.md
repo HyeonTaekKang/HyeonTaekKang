@@ -6,7 +6,7 @@ The reason why I study programming it's because I can create what I imagine.:roc
 
 
 Someday, I want to make my own service and run it.  
-And , I hope the service I made will help many people.:sunflower:<br/><br/>
+And , I hope the service I made will help many people +-+<br/><br/>
 
 ### 🛠 Skills
 
