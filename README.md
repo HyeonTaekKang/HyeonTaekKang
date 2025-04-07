@@ -11,7 +11,7 @@ And , I hope the service I made will help many people.:sunflower:<br/><br/>
 ### 🛠 Skills
 
 #### Platforms & Languages
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Query DSL-0769AD?style=flat-square&logo=&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Query DSL-0769AD?style=flat-square&logo=&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
 
 <img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=white"> 
 
