@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=365AA1&text=HyeonTaekKang&reversal=false&textBg=false&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=DDA0DD&text=HyeonTaekKang&reversal=false&textBg=false&fontAlignY=40&fontColor=ffffff)
 
 👋Hi there! I'm KangHyeonTaek
 
