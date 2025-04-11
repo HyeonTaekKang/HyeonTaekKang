@@ -1,32 +1,63 @@
-### 👋Hi there! I'm KangHyeonTaek<br/><br/>
-<a href="https://blog.naver.com/wjavmtngkr1"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"></a> <img src="https://img.shields.io/badge/wjavmtngkr1@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"><br/><br/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=365AA1&text=HyeonTaekKang&reversal=false&textBg=false&fontAlignY=40&fontColor=ffffff)
 
-:earth_asia:I'm studying computer science in Korea.:pencil2:  
-The reason why I study programming it's because I can create what I imagine.:rocket:<br/><br/>
+👋Hi there! I'm KangHyeonTaek
 
-
-Someday, I want to make my own service and run it.  
-And , I hope the service I made will help many people +-+<br/><br/>
-
-### 🛠 Skills
-
-#### Platforms & Languages
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Query DSL-0769AD?style=flat-square&logo=&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
-
-<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=white"> 
+ 
 
 
-<!--
-**Kangteak/Kangteak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying computer science in Korea.
+The reason why I study programming it's because I can create what I imagine
+<br>
+Someday, I want to make my own service and run it.
+And , I hope the service I made will help many people  
+<br>
+### 💻 Operating website
+https://timeauction.net
+<br><br>
+### ✨ Interests
+`web` / `Backend` 
+<br><br>
+### 🙌 About me!
+- shinhan.univ (2020. 03 ~)
+<br><br>
+### 🌐 Connect with Me 
+- 📧 naver :  wjavmtngkr1@naver.com
+- 📧 google : wjavmtngkr1@gmail.com
+<br><br>
+### 🔍 Find Me Online 
+- 📝Blog URL : https://blog.naver.com/wjavmtngkr1
+<br><br>
+### 🛠️ skills        
+<div>
+<img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logo=javascript&logoColor=white">
+<!-- Frameworks and Libraries -->
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Spring-boot6DB33F?style=flat-square&logo=spring&logoColor=ffffff">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- DevOps and Cloud -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=ffffff">
+<br>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff">
+<br>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff">
+<br>
+
+<!-- Web Development -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
+<br>
+
+</div>
+</div>
+</details>
+<br>
