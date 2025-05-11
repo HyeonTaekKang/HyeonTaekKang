@@ -11,7 +11,7 @@ The reason why I study programming it's because I can create what I imagine
 Someday, I want to make my own service and run it.
 And , I hope the service I made will help many people  
 <br>
-### 💻 Operating website
+### 💻 운영중인 사이트 ( Operating website )
 https://timeauction.net
 <br><br>
 ### ✨ Interests
